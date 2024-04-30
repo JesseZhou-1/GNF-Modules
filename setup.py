@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="GNF_Modules",
-    version="0.1",
+    version="0.2",
     packages=find_packages(),
     url="https://github.com/JesseZhou-1/GNF-Modules",
     classifiers=[
